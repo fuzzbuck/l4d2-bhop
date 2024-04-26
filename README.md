@@ -1,3 +1,8 @@
+Hobby project, hold space to automatically BHop in left4dead2q
+
+Press & hold "P" to toggle bhop ON and OFF
+check console for toggle status
+
 # Compiling
 `cargo build --release`
 
