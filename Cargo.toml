@@ -1,0 +1,12 @@
+[package]
+name = "l4d2_bhop"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proc_mem = "0.1.6"
+sysinfo = "0.30.7"
+winapi = { version = "0.3.9", features = ["winuser"] }
+inputbot = "0.6.0"
